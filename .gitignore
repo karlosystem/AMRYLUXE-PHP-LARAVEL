@@ -1,0 +1,45 @@
+# --- Carpetas de Dependencias y Entorno Local ---
+/.phpunit.cache/
+/node_modules/
+/vendor/
+/node_test/
+/.fleet/
+/.idea/
+/.nova/
+/.vscode/
+/.zed/
+
+# --- Archivos de Configuración del Sistema y Servidores ---
+Homestead.json
+Homestead.yaml
+/auth.json
+.phpactor.json
+.phpunit.result.cache
+
+# --- Entornos y Credenciales (¡Muy Importante!) ---
+.env
+.env.backup
+.env.production
+oAuth.txt
+
+# --- Plantillas y Archivos Temporales del Proyecto ---
+/templatesHTML/
+/fashionwebsitetemplate-main/
+
+# --- Archivos Públicos y Compilados de Laravel ---
+/public/build/
+/public/hot/
+/public/storage/
+/storage/*.key
+/storage/pail/
+
+# --- Logs de Errores ---
+npm-debug.log
+yarn-error.log
+
+# --- Extensiones de Archivos Bloqueadas (Cualquier carpeta) ---
+*.txt
+*.zip
+*.sql
+*.pdf
+*.xml
