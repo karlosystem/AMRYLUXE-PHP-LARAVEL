@@ -24,6 +24,42 @@ Este proyecto fue desarrollado bajo una arquitectura full-stack moderna y eficie
 
 ---
 
+## 📸 Vista Previa de la Plataforma
+
+### 🌐 Interfaz Pública de la Tienda
+| Home Principal | Menú de Categorías |
+| :---: | :---: |
+| <img src="screenshots/home.png" width="400"> | <img src="screenshots/menu.png" width="400"> |
+
+| Catálogo de Productos | Sección Liquidación |
+| :---: | :---: |
+| <img src="screenshots/listado_productos.png" width="400"> | <img src="screenshots/liquidacion.png" width="400"> |
+
+### 🛍️ Proceso de Compra y Detalle
+| Vista de Detalle | Carrito de Compras |
+| :---: | :---: |
+| <img src="screenshots/detalle_producto.png" width="400"> | <img src="screenshots/carrito_compras.png" width="400"> |
+
+<details>
+<summary>🔑 Ver Capturas de Autenticación, Historia y Gestión (Clic para desplegar)</summary>
+
+### 🔐 Registro e Inicio de Sesión
+| Login de Usuario | Formulario de Registro |
+| :---: | :---: |
+| <img src="screenshots/login.png" width="400"> | <img src="screenshots/registrese.png" width="400"> |
+
+### 📖 Secciones Adicionales y Soporte
+| Página de Historia | Libro de Reclamaciones |
+| :---: | :---: |
+| <img src="screenshots/historia.png" width="400"> | <img src="screenshots/libro_reclamaciones.png" width="400"> |
+
+### ⚡ Gestión Interna
+| Acción: Agregar Producto al Sistema |
+| :---: |
+| <img src="screenshots/agregar_producto.png" width="500"> |
+
+</details>
+
 ## 📦 Instrucciones de Instalación
 
 Si deseas clonar este proyecto y ejecutarlo en tu entorno local, sigue estos pasos:
